@@ -1,6 +1,7 @@
 Module {
 	name: 'v-learning'
-	description: ''
+	author: 'Matus Mastena'
+	description: 'A repo to learn V w/ me'
 	version: ''
 	license: ''
 	dependencies: []
